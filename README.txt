@@ -21,7 +21,7 @@ Installation and Setup
 1. Clone or Download the Repository:**
    - If using Git:
      ```bash
-     git clone https://github.com/your-repo-name/chinese-astrology-program.git
+     git clone https://github.com/osonameng/chinese-astrology-program.git
      cd chinese-astrology-program
      ```
    - Or you can download the ZIP file from the repository and extract it.
